@@ -7,6 +7,7 @@ const STORES = {
   users: 'users',
   products: 'products',
   deliveries: 'deliveries',
+  //test
 };
 
 // Initialisation de la base de données
